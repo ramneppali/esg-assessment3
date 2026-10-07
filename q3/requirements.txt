@@ -1,0 +1,3 @@
+# Only needed for the Hugging Face zero-shot baseline (--mode zeroshot)
+transformers>=4.40
+torch
