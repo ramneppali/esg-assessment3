@@ -1,0 +1,22 @@
+[
+  {
+    "id": "M1",
+    "text": "There is a water leak in Building C that has been running all morning. It is pooling near the server room door."
+  },
+  {
+    "id": "M2",
+    "text": "I want to report that one of our suppliers may not meet our sustainability policy. They told me their factory dumps waste into the river."
+  },
+  {
+    "id": "M3",
+    "text": "The accessible entrance near the main building has been blocked for two days. A wheelchair user in my team had to go round the back."
+  },
+  {
+    "id": "M4",
+    "text": "The air conditioning is running overnight in an empty office."
+  },
+  {
+    "id": "M5",
+    "text": "Thanks to whoever fixed the recycling bins on level 2, they look great now!"
+  }
+]

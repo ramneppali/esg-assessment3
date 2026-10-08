@@ -1,0 +1,7 @@
+| ID | Mode | Category | Urgency | Team |
+|---|---|---|---|---|
+| M1 | llm | WATER | HIGH | FACILITIES |
+| M2 | llm | PROCUREMENT_SUPPLIER | HIGH | SUSTAINABILITY |
+| M3 | llm | ACCESSIBILITY | HIGH | ACCESSIBILITY_INCLUSION |
+| M4 | llm | ENERGY | MEDIUM | FACILITIES |
+| M5 | llm | WASTE_RECYCLING | LOW | SUSTAINABILITY |
